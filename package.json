@@ -8,7 +8,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "0.9.x",
     "save": "^2.4.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
